@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lechengbao_interview_question.iml" filepath="$PROJECT_DIR$/.idea/lechengbao_interview_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字符串全排列/字符串全排列.iml" filepath="$PROJECT_DIR$/字符串全排列/字符串全排列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/拼图游戏/拼图游戏.iml" filepath="$PROJECT_DIR$/拼图游戏/拼图游戏.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排行榜代码/排行榜代码.iml" filepath="$PROJECT_DIR$/排行榜代码/排行榜代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/随机数生成3/随机数生成3.iml" filepath="$PROJECT_DIR$/随机数生成3/随机数生成3.iml" />
+    </modules>
+  </component>
+</project>
